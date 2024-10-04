@@ -9,6 +9,6 @@ I'll be using replit, an amazing online IDE so i can do
 this from my phone wherever I happen to be. No excuses 
 for not coding from the middle of a field!
 I am feeling 🥳
-You can follow my progress at replit.com/@
+You can follow my progress at replit.com/@DarkS3raphim
 """)
 
